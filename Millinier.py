@@ -1,0 +1,12 @@
+Questions = [
+    ["Who is Shah Rukh Khan?", "WWE Wrestler", "Actor", "Doctor","plumbre",2]
+    ["what is the capital of  France?","Rome","Paris","London","Berlin",2]
+    ["Which planet is Known as the Red planet ?", "Earth","Jupiter","Venus","Mars",4]
+    ["Which ocean is the largest?", "Pacific Ocean","Atlantic Ocean","Artic Ocean","Indian Ocean",1]
+    ["Which is the largest mammal?","Tiger","Elephant","Blue Whale","lion",3]
+    ["Which is the smallest country in the World ?", "San Marino","Vatican City","Monaco","Latin",2]
+    ["Which country is known as the rising Sun?" , "India","Japan","South korea","Pakistan", 2]
+    ["Which is the fatest land Animal ? ","Cheetah","Lion","Tiger","Rhino",1 ]
+    ["Which is the Capital of India?", "Pune", "Kolkata","Delhi","Shimla", 3]
+    ["Who "]
+]
