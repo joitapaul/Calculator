@@ -14,7 +14,7 @@
 
 # merger.write("merged-pdf.pdf")
 # merger.close()
-from PyPDF2  PdfMerger
+from PyPDF2 import PdfMerger
 
 merger = PdfMerger()
 
