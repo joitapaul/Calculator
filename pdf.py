@@ -9,7 +9,7 @@
 #     name = input("Enter the name of {i +1} pdf :")
 #     pdfs.append(name)
 
-# for pdf in pdfs:
+# for in pdfs:
 #     merger.append(pdf)
 
 # merger.write("merged-pdf.pdf")
